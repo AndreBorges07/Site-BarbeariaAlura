@@ -1,2 +1,2 @@
 # Site-BarbeariaAlura
-Projeto com 3 páginas feita para praticar e desenvolver os conhecimentos de Front-End. Utilizado HTML e CSS
+Projeto com 3 páginas feita para o desenvolvimento dos conhecimentos de Front-End. Utilizado HTML e CSS. Possui responsividade para Mobile.
