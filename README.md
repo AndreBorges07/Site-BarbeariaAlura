@@ -26,9 +26,9 @@ Projeto com 3 páginas (Home, Produtos e Contato) feita para o desenvolvimento d
     <li>Foram feitas 62 de 62 atividades.</li>
 </ul>
 
+# Certificado: HTML5 E CSS3 PARTE 1: CRIE UMA PÁGINA DA WEB
 
-
-
+Acesse aqui: https://cursos.alura.com.br/certificate/andreBorges07/html5-css3-primeiros-passos
 
 
 
