@@ -22,13 +22,24 @@ Projeto com 3 páginas (Home, Produtos e Contato) feita para o desenvolvimento d
     <li>Separando o conteúdo e informações</li>
     <li>Trabalhando com CSS</li>
     <li>Listas e divisões de conteúdo</li>
-    <li>Finalizando a página</li>
-    <li>Foram feitas 62 de 62 atividades.</li>
+    <li>Começando um formulário</li>
+    <li>Tipos de campos diferentes</li>
+    <li>Melhorando a semântica</li>
+    <li>CSS avançado</li>
+    <li>Estrutura de tabelas</li>
+    <li>Ao todo foram feitas 113 de 113 atividades.</li>
 </ul>
 
-# Certificado: HTML5 E CSS3 PARTE 1: CRIE UMA PÁGINA DA WEB
-
+# Certificados: 
+<h2>HTML5 E CSS3 PARTE 1: CRIE UMA PÁGINA DA WEB</h2> 
 Acesse aqui: https://cursos.alura.com.br/certificate/andreBorges07/html5-css3-primeiros-passos
+
+<h2>HTML5 E CSS3 PARTE 3: TRABALHANDO COM FORMULÁRIOS E TABELAS</h2>
+Acesse aqui: https://cursos.alura.com.br/certificate/andreBorges07/html5-css3-formularios-tabelas
+
+
+
+
 
 
 
